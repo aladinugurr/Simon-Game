@@ -1,3 +1,5 @@
+https://simongame-ugurcatal.netlify.app/
+
 # Simon-Game
 Simon Game with javascript
  Game of the rules: when light up and down on a colour u need to pick it.Then another colour will be light up then u should pick first u pick and last. 
